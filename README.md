@@ -73,15 +73,7 @@ const daniela = {
 
 </div>
 
----
 
-<div align="center">
-
-```
-[ convirtiendo ideas en píxeles desde El Salvador ]
-```
-
-</div>## Hi there 👋
 
 <!--
 **m0nge/m0nge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
