@@ -64,14 +64,7 @@ const daniela = {
 
 ---
 
-## ⬛ stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m0nge&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888&icon_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0nge&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888)
-
-</div>
 
 
 
